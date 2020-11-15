@@ -11,6 +11,7 @@ First of all, you must have Python3 installed on your computer.
 
 python -m pip install nltk
 python -m pip install pandas
+
 4-)After completing these steps, take the main.py file from github.
 
 5-)Prepare a txt file. This could be the speeches of a celebrity or a politician or even a movie character.
